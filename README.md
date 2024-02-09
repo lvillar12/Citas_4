@@ -1,5 +1,5 @@
 Licencia
-# Company: Mazak Corporation
+# Company: Hospital "El sarampión"
 # UserName : Luis Villarreal
 # Product : Citas_4 (v1.4.0)
 # MC Serial# : 0
